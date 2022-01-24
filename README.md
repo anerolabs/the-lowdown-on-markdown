@@ -125,15 +125,6 @@ Below are some examples with links to their respective documentation:
 
 <br>
 
-#### `GitHub Flavored Markdown`
-
-https://github.github.com/gfm/
-Site documentation and README files.
-
- Make your READMEs look great!
- READMEs are the face of your project repositories
-
-<br>
 
 # **standard markdown**
 
@@ -148,27 +139,59 @@ Markdown's inital release syntax was informally defined and ambiguous.
 <br>
 <br>
 
-CommonMark, on the other hand, was announced by Jeff Atwood, creator of Stack Overflow.
+CommonMark was developed by a group of developers including Jeff Atwood, co-founder of Stack Overflow.
 
-Its contributors include developers from Github and reddit.
+They proposed:
+- A standard, unambiguous syntax specification
+- A suite of comprehensive tests to validate Markdown implementations
+
+
+Its contributors and supporters include developers from Github and reddit.
 
 <div align="center">
 <img src="./resources/standards.png" width="500">
 </div>
 
+<br>
+
 There are several lightweight markup languages that are supersets of Markdown. They include basic syntax and build upon it by adding additional elements like tables, code blocks, syntax highlighting, URL auto-linking, and footnotes.
 
 
+<br>
+<br>
+<br>
 
-  Jekyll
+# **GitHub and Readmes**
 
 
->`Sources and Useful Links: `\
-[Markdown Guide][mdguide]  \
-[CommonMark][cm] \
-[Markdown Table Generator][tablegen]  \
-[Wikipedia Page for Markdown][wiki]  \
-[GitHub Flavored Markdown][gh]
+
+ READMEs are the face of your project repositories
+
+ Make your READMEs look great by using Markdown & HTML!
+
+ <br>
+
+#### GitHub uses its own `GitHub Flavored Markdown`
+
+
+- Superset specification of CommonMark
+Site documentation
+
+
+<br>
+<br>
+<br>
+
+# **Sources and Useful Markdown Links**
+
+
+
+`Sources and Useful Links: `
+- [Markdown Guide][mdguide]
+- [CommonMark][cm]
+- [Markdown Table Generator][tablegen]
+- [Wikipedia Page for Markdown][wiki]
+- [GitHub Flavored Markdown][gh]
 
 
 [mdguide]:https://www.markdownguide.org
