@@ -1,0 +1,12 @@
+# This is a text file with some markdown
+I am text that hasn't been markedup.
+
+**I will have strong emphasis**
+
+*I will have italic emphasis*
+
+1. I will be an item in an ordered list
+
+> And I will be a blockquote
+
+Cool!
