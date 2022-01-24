@@ -92,7 +92,7 @@ Used in many applications: blogging, instant messaging, online forums, collabora
 
 Hundreds of millions of people have used Markdown thanks to it's quick and wide-spread use.
 
-> **Reddit, StackOverflow, Notion Wordpress, Slack, Discord, Microsoft Teams... SO many more**
+> **Reddit, StackOverflow, Notion, Wordpress, Slack, Discord, Microsoft Teams... SO many more**
 
 <br>
 
@@ -175,7 +175,6 @@ There are several lightweight markup languages that are supersets of Markdown. T
 
 
 - Superset specification of CommonMark
-Site documentation
 
 
 <br>
