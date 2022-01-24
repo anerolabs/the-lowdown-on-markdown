@@ -183,9 +183,6 @@ There are several lightweight markup languages that are supersets of Markdown. T
 
 # **Sources and Useful Markdown Links**
 
-
-
-`Sources and Useful Links: `
 - [Markdown Guide][mdguide]
 - [CommonMark][cm]
 - [Markdown Table Generator][tablegen]
